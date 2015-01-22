@@ -1,0 +1,16 @@
+{
+  "name": "inter",
+  "description": "交易网关",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "0.9.0",
+    "cron": "1.0.4",
+    "express": "3.3.x",
+    "jade": "1.5.0",
+    "mongodb": "1.4.8",
+    "mysql": "2.4.2",
+    "procstreams": "^0.3.0",
+    "socket.io": "^1.1.0",
+    "time": "0.11.0"
+  }
+}
